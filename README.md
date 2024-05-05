@@ -3,6 +3,6 @@ This is a light-weight forum for international students to share their daily lif
 
 The forum includes account managemant/posting functionality/post management/commenting system
 
-The front-end uses HTML, CSS，Node.js,Bootstraps and JavaScript .The back-end is built based on JavaScript and SQL.
+The front-end uses HTML, CSS,React,Bootstraps and JavaScript.The back-end is built based on JavaScript,Node.js and SQL.
 
 This project is a group project we did on Web Programming Project ID00DW07-3001 (DIN23SP, Spring 2024).
